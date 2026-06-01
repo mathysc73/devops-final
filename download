@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.github/
+.env
+.venv/
+venv/
+.pytest_cache/
+*.log
+monitoring/
+README.md
+compose.yaml
